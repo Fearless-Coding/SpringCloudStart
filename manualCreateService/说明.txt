@@ -1,0 +1,13 @@
+一、启动单独的user服务
+	localhost:8000/1
+	localhost:8000/2
+二、启动两个项目
+	用movie服务访问user服务
+	localhost:8010/user/1
+
+
+
+
+三、总结
+	1.用到了restful风格访问 
+	2.用REST通信协议进行服务调用

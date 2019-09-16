@@ -1,0 +1,2 @@
+1.manualCreateService   首次创建服务注册与发现（非智能版）
+2.EurekaService	使用Eureka进行服务注册和发现
